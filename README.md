@@ -31,7 +31,6 @@ Before you can install this demo pipeline, you need the following:
     ) | sed "s/ /\\\,/g")
   ```
 
-Alternatively, the aws cli option `--filter` adds options to select subnets other parameters such as specific tags.
 
 ## Customizing the pipeline
 
